@@ -7,4 +7,6 @@ Features included:
 - create data, view data, and remove data, in real time
 - application theme is dynamic depending on the users system preference
 
+The branch with the higher number is the most updated
+
 
